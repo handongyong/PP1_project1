@@ -34,10 +34,17 @@ public class WordManager {
                 break;}
 
             if (menu == 4) {
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
-            if (menu == 1) {
+            else if (menu == 1) {
                 wordCRUD.listAll();
+            }
+            else if (menu == 5) {
+                wordCRUD.updateItem();
+            }
+            else if (menu == 6) {
+
+            }
             }
 
         }
