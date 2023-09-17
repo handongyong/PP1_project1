@@ -1,0 +1,5 @@
+3|superintendent|관리자, 감독관
+1|apple|사과
+1|kiwi|키위
+1|formerly|이전에, 예전에
+1| goto|가다
