@@ -1,1 +1,10 @@
 
+![첫 화면](https://github.com/handongyonggar/PP1_project1/assets/101096602/316a28ed-b5f3-4fbe-89b0-b4451b8a04f5)
+![단어추가](https://github.com/handongyonggar/PP1_project1/assets/101096602/86e73c6e-5367-4b60-ba43-f9253e21ea7d)
+![단어검색](https://github.com/handongyonggar/PP1_project1/assets/101096602/2536b368-e895-4b28-8f51-6b8690ee8b71)
+![데이터 저장](https://github.com/handongyonggar/PP1_project1/assets/101096602/78295b17-cca2-4a90-9202-dcf3a265869a)
+![수정내역](https://github.com/handongyonggar/PP1_project1/assets/101096602/b6cc17c4-d1e5-4b8e-b023-fc16cfcce125)
+![단어레벨](https://github.com/handongyonggar/PP1_project1/assets/101096602/21eb4b78-ca43-42a2-860b-133d0483c532)
+![단어삭제](https://github.com/handongyonggar/PP1_project1/assets/101096602/b55f713b-3898-4f99-904f-61c1c94c7e99)
+![단어수정](https://github.com/handongyonggar/PP1_project1/assets/101096602/4d7df1af-4921-49fd-b13b-10e6a5f531f2)
+![프로그램 종료](https://github.com/handongyonggar/PP1_project1/assets/101096602/330458c2-5893-4422-bb96-f5cdc429562d)
