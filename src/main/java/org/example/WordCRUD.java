@@ -1,3 +1,4 @@
+//최종 코드
 package org.example;
 
 import java.io.*;
@@ -37,19 +38,6 @@ public class WordCRUD implements ICRUD {
         System.out.println("\n프로그램 종료! 다음에 만나요~ ");
     }
 
-    @Override
-    public int update(Object obj) {
-        return 0;
-    }
-
-    @Override
-    public int delete(Object obj) {
-        return 0;
-    }
-
-    @Override
-    public void selectOne(int id) {
-    }
 
     public void listAll() {
         System.out.println("-------------------------------");
